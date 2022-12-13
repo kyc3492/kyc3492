@@ -26,8 +26,9 @@ icon 참고: https://simpleicons.org/?q=go
 > **Pytorch**와 **Transformers**를 배우고 있으며,
 > **DevOPS**와 **MLOPS**에 관심이 많습니다.
 
+---
 
-### 기술 스택
+### 기술 스택 😄
 
 #### 언어
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=JavaScript&logoColor=white"/>
@@ -39,3 +40,10 @@ icon 참고: https://simpleicons.org/?q=go
 #### 기타
 
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=MLflow&logoColor=white"/>  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/>  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/>
+
+---
+
+### 더 알고 싶으시다면? 🤗
+
+- #### [티스토리 블로그](https://ye0ns.tistory.com/)
+- #### [이력서 (상시 업데이트 중!)](https://eminent-aftermath-b27.notion.site/4f5c6a2084de4f69b7e682fcecc9ffe1)
