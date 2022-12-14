@@ -17,7 +17,7 @@ shields.io 참고: https://shields.io/
 icon 참고: https://simpleicons.org/?q=go
  -->
 
-### 배움에 두려움이 없고 분야를 가리지 않는, 항상 정진하는 개발자입니다. 🤔
+<center>### 배움에 두려움이 없고 분야를 가리지 않는, 항상 정진하는 개발자입니다. 🤔
 
 > **백엔드** 및 **프론트엔드** 구현을 합니다.
 >
@@ -25,6 +25,9 @@ icon 참고: https://simpleicons.org/?q=go
 > 
 > **Pytorch**와 **Transformers**를 배우고 있으며,
 > **DevOPS**와 **MLOPS**에 관심이 많습니다.
+
+
+![Yeoncheol Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyc3492&count_private=true&show_icons=true&theme=github_dark)
 
 ---
 
@@ -45,5 +48,6 @@ icon 참고: https://simpleicons.org/?q=go
 
 ### 더 알고 싶으시다면? 🤗
 
-- #### [티스토리 블로그](https://ye0ns.tistory.com/)
-- #### [이력서 (상시 업데이트 중!)](https://eminent-aftermath-b27.notion.site/4f5c6a2084de4f69b7e682fcecc9ffe1)
+#### [티스토리 블로그 <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>](https://ye0ns.tistory.com/)
+#### [이력서 (상시 업데이트 중!) <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>](https://eminent-aftermath-b27.notion.site/4f5c6a2084de4f69b7e682fcecc9ffe1)
+</center>
