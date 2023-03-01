@@ -19,12 +19,14 @@ icon 참고: https://simpleicons.org/?q=go
 
 ### 배움에 두려움이 없이 항상 정진하는 개발자입니다. 🤓
 
-> **백엔드** 및 **프론트엔드** 구현을 합니다.
->
-> 지금은 NLP에 대한 관심에 따라 **Boostcamp AI Course**를 진행하고 있습니다. 
 > 
-> **Pytorch**와 **Transformers**를 배우고 있으며,
-> **DevOPS**와 **MLOPS**에 관심이 많습니다.
+> **Pytorch**와 **Transformers**를 배웠으며,
+>
+> **DevOps**와 **MLOps**에 관심이 많습니다.
+> 
+> 특히 데이터와 모델을 서빙하여 개발자와 사용자를 편리하게 해 줄
+> 
+> **REST API** 구현과 **K8s** 등 인프라 기술에 관심이 많습니다.
 
 
 ![Yeoncheol Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyc3492&count_private=true&show_icons=true&theme=github_dark)
